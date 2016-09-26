@@ -90,6 +90,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formularios\Caixa M.Designer.vb">
+      <DependentUpon>Caixa M.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Caixa M.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Formularios\Login.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +103,7 @@
       <DependentUpon>Login.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Modulos\ComboBoxCompleta.vb" />
     <Compile Include="Modulos\Conecta.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -121,6 +128,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Formularios\Caixa M.resx">
+      <DependentUpon>Caixa M.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Login.resx">
       <DependentUpon>Login.vb</DependentUpon>
     </EmbeddedResource>

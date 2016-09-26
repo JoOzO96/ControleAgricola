@@ -2,8 +2,10 @@
     Public conexao As ADODB.Connection
     Public Function abreBanco()
         Dim caminho As String
+        conexao = CreateObject("ADODB.Connection")
         caminho = "C:\ControleAgricola\AgricolaT.accdb"
-        conexao.Open("Provider=Microsoft.Jet.OLEDB.15.0;Data Source= " & caminho)
+        conexao.Open("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & caminho)
+
     End Function
     Public Function fechaBanco()
         conexao.Close()
