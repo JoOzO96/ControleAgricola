@@ -15,8 +15,10 @@
             usuario.MoveFirst()
             If (usuario.RecordCount = 0) Then
                 MsgBox("Usuario nao encontrado")
+                Call fechaBanco()
             Else
                 Me.Dispose()
+                Call fechaBanco()
             End If
         End If
     End Sub
