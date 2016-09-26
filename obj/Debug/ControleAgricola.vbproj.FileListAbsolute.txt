@@ -1,0 +1,16 @@
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\bin\Debug\ControleAgricola.exe.config
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\bin\Debug\ControleAgricola.exe
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\bin\Debug\ControleAgricola.pdb
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\bin\Debug\ControleAgricola.xml
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.vbprojResolveAssemblyReference.cache
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.Login.resources
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.Resources.resources
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.vbproj.GenerateResource.Cache
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.exe
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.xml
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.pdb
+C:\Users\Jose\AppData\Local\Temporary Projects\ControleAgricola\obj\Debug\ControleAgricola.Principal.resources
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\ControleAgricola\ControleAgricola\bin\Debug\ControleAgricola.exe.config
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\ControleAgricola\ControleAgricola\obj\Debug\ControleAgricola.exe
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\ControleAgricola\ControleAgricola\obj\Debug\ControleAgricola.xml
+C:\Users\Jose\Documents\Visual Studio 2015\Projects\ControleAgricola\ControleAgricola\obj\Debug\ControleAgricola.pdb
